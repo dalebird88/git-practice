@@ -1,13 +1,11 @@
 var dm11 = "Started today";
+var car = "Toyota";
+var superhero = "Captain America";
+var pet = "Dog";
 
 var journal = [];
 
 journal.push(dm11);
-
-var car = "Toyota";
-
 journal.push(car);
-
-var superhero = "Captain America";
-
 journal.push(superhero);
+journal.push(pet);
