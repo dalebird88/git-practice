@@ -1,5 +1,8 @@
-var batman = 76;
+var dm11 = "Started today";
 
 var journal = [];
 
-journal.push(batman);
+journal.push(dm11);
+
+var car = "Toyota";
+journal.push(car);
